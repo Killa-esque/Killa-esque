@@ -80,7 +80,7 @@
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pzinh1510)
-[![Gmail](https://img.shields.io/badge/Gmail-phuvinh110@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phuvinh110@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-pzinh.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phuvinh110@gmail.com)
 
 ---
 

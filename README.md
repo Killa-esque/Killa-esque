@@ -18,7 +18,7 @@
 - Currently learning web development by self.
 - Mentoring students in front-end development at Cybersoft.
 - Software Engineer Intership at Cybersoft
-- Open for new opportunities: [LinkedIn](https://www.linkedin.com/in/vo-phu-vinh-262449224)
+- Open for new opportunities: [LinkedIn](https://www.linkedin.com/in/pzzinh1510)
 
 <br><br>
 
